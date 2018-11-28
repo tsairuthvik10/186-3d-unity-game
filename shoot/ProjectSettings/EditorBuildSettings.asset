@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SampleScene.unity
+    guid: a7f5d7a59922249eeadee4d3fde51e7d
+  - enabled: 1
+    path: Assets/Scenes/story.unity
+    guid: 5d6842b4ec23742e2a4058a9d7c4b756
+  - enabled: 0
+    path: Assets/Scenes/Scene1.unity
+    guid: 2597f24ac0763471098d5f77d12db4dc
+  - enabled: 1
+    path: Assets/Scenes/starttest.unity
+    guid: 4d01766ea795f48d2acb23d8be666877
+  - enabled: 1
+    path: Assets/Scenes/gameScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Jigsaw.unity
+    guid: 66c11d80714092a4ba37fc6ac6393579
+  - enabled: 1
+    path: Assets/Scenes/endtest.unity
+    guid: 1e63f3e41ea5b44208a4e8222d4caf12
+  - enabled: 1
+    path: Assets/Scenes/Scenetraining.unity
+    guid: 7e9d0a16f534241d788d1e0a4bd6bcc9
+  - enabled: 1
+    path: Assets/Scenes/Scenetraining2.unity
+    guid: 2ca53ca83c17144fb9e275eb00285b53
+  - enabled: 1
+    path: Assets/Scenes/friendframe.unity
+    guid: 3a648622948454eae9ff650e36ab40e0
+  - enabled: 1
+    path: Assets/Scenes/Saulsh.unity
+    guid: cc2f3cb8a03164635ab542a45e932401
+  - enabled: 1
+    path: Assets/Scenes/realclue.unity
+    guid: afe1961edfdc74984a2931a2333ca952
+  - enabled: 1
+    path: Assets/Scenes/airport.unity
+    guid: 78f6c26c2f4134e32b1c5bf2336baa06
+  - enabled: 1
+    path: Assets/Poly City - Free Cartoon Pack/Demo/Demo.unity
+    guid: 06d2d35472034704facb5ba67b5b020a
+  - enabled: 1
+    path: Assets/Scenes/cluedemo.unity
+    guid: e10ef85df23934fc386d45e2d8c38063
+  - enabled: 1
+    path: Assets/Scenes/SISI_Safehouse.unity
+    guid: 4603046e045514ea4b80677237aad5ae
+  - enabled: 1
+    path: Assets/Scenes/fatherdoc.unity
+    guid: 78c00f6bb7e6a47089bd51abf654e4fe
+  - enabled: 1
+    path: Assets/Scenes/father.unity
+    guid: c1ef29362749a4c65ba7e8f7b2b658eb
+  - enabled: 1
+    path: Assets/Scenes/peter.unity
+    guid: a1ba8b36d0efd48e98a8ba53f525879d
+  - enabled: 1
+    path: Assets/Scenes/finalbattle.unity
+    guid: 61f4e72bfcdd944cd8c6d0b9eabd797d
+  - enabled: 1
+    path: Assets/Scenes/killsaul.unity
+    guid: 91d64b287ae1147e8b6b14820cbe949c
+  - enabled: 1
+    path: Assets/Scenes/finalscene.unity
+    guid: e5b484f7e4f8f4ff99239751fbe8f297
+  - enabled: 1
+    path: Assets/Scenes/gameover.unity
+    guid: 0229a69fa57504307bfd2f03e44b3a3f
+  - enabled: 1
+    path: Assets/Scenes/fakeclue.unity
+    guid: eb747a9fb61514ad4baf9122ba58b6df
+  - enabled: 1
+    path: Assets/Scenes/fakeclue2.unity
+    guid: 1dfe9649a8aca4d59aab834e58655c16
+  m_configObjects: {}
